@@ -1,0 +1,176 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.corningrobotics.enderbots.endercv.test" >
+4
+5    <uses-sdk
+5-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:5:15-41
+7        android:targetSdkVersion="27" />
+7-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:11:5-15:92
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:13:22-53
+13        android:label="Tests for org.corningrobotics.enderbots.endercv.test"
+13-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:15:22-90
+14        android:targetPackage="org.corningrobotics.enderbots.endercv.test" />
+14-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:12:22-88
+15
+16    <uses-permission
+16-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:11:5-13:35
+17        android:name="android.permission.ACCESS_WIFI_STATE"
+17-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:12:9-60
+18        android:required="true" />
+18-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:13:9-32
+19    <uses-permission
+19-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:14:5-16:35
+20        android:name="android.permission.CHANGE_WIFI_STATE"
+20-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:15:9-60
+21        android:required="true" />
+21-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:16:9-32
+22    <uses-permission android:name="android.permission.BLUETOOTH" />
+22-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:17:5-68
+22-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:17:22-65
+23    <uses-permission
+23-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:18:5-20:35
+24        android:name="android.permission.ACCESS_NETWORK_STATE"
+24-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:19:9-63
+25        android:required="true" />
+25-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:20:9-32
+26    <uses-permission
+26-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:21:5-23:35
+27        android:name="android.permission.CHANGE_NETWORK_STATE"
+27-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:22:9-63
+28        android:required="true" />
+28-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:23:9-32
+29    <uses-permission
+29-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:24:5-26:35
+30        android:name="android.permission.INTERNET"
+30-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:25:9-51
+31        android:required="true" />
+31-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:26:9-32
+32    <uses-permission
+32-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:27:5-29:35
+33        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+33-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:28:9-65
+34        android:required="true" />
+34-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:29:9-32
+35    <uses-permission
+35-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:30:5-32:35
+36        android:name="android.permission.READ_EXTERNAL_STORAGE"
+36-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:31:9-64
+37        android:required="true" />
+37-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:32:9-32
+38    <uses-permission
+38-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:33:5-35:35
+39        android:name="android.permission.WRITE_SETTINGS"
+39-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:34:9-57
+40        android:required="true" />
+40-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:35:9-32
+41    <!--
+42       "Allows applications to access serial ports via the SerialManager.". So, uncertain we need,
+43       as we don't use the SerialManager.
+44    -->
+45    <uses-permission
+45-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:41:5-43:35
+46        android:name="android.permission.SERIAL_PORT"
+46-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:42:9-54
+47        android:required="true" /> <!-- see AppUtil.setTimeZone() -->
+47-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:43:9-32
+48    <uses-permission
+48-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:46:5-48:35
+49        android:name="android.permission.SET_TIME_ZONE"
+49-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:47:9-56
+50        android:required="true" />
+50-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:48:9-32
+51    <!--
+52  Note: we suspect that this (android.permission.WAKE_LOCK) is no
+53  longer needed, but haven't yet found the time necessary to verify
+54  that assertion before removing it
+55    -->
+56    <uses-permission
+56-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:55:5-57:35
+57        android:name="android.permission.WAKE_LOCK"
+57-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:56:9-52
+58        android:required="true" />
+58-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:57:9-32
+59    <uses-permission android:name="android.permission.CAMERA" />
+59-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:58:5-65
+59-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:58:22-62
+60    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+60-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:59:5-81
+60-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:59:22-78
+61
+62    <uses-feature android:name="android.hardware.usb.accessory" />
+62-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:61:5-67
+62-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:61:19-64
+63    <uses-feature android:glEsVersion="0x00020000" />
+63-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:62:5-54
+63-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:62:19-51
+64    <!--
+65        NOTE: Any application that requests the CAMERA permission but does not
+66        declare any camera features with the <uses-feature> element will be
+67        assumed to use all camera features (auto-focus and flash). Thus, the
+68        application will not be compatible with devices that do not support
+69        all camera features. We use <uses-feature> to declare only the
+70        camera features that our application does need. For instance, if you
+71        request the CAMERA permission, but you do not need auto-focus or
+72        flash, then declare only the android.hardware.camera feature. The
+73        other camera features that you do not request will no longer be
+74        assumed as required.
+75    -->
+76    <uses-feature android:name="android.hardware.camera" />
+76-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:76:5-60
+76-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:76:19-57
+77
+78    <application
+78-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:7:5-9:19
+79        android:name="org.firstinspires.ftc.robotcore.internal.system.RobotApplication"
+79-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:78:18-97
+80        android:allowBackup="true"
+80-->[__tested_artifact__::DogeCV] C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-35
+81        android:debuggable="true"
+81-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:7:18-43
+82        android:label="@string/app_name"
+82-->[__tested_artifact__::DogeCV] C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-41
+83        android:supportsRtl="true" >
+83-->[__tested_artifact__::DogeCV] C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-35
+84        <uses-library android:name="android.test.runner" />
+84-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:8:9-60
+84-->C:\Users\FTC\Documents\repos\beeppatrol\roverruckus\DogeCV\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8366846414582020319.xml:8:23-57
+85        <!-- Service that keeps desktop folders up to date with respect to actual phone file system contents -->
+86        <service
+86-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:81:9-83:38
+87            android:name="org.firstinspires.ftc.robotcore.internal.files.MediaTransferProtocolMonitorService"
+87-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:82:13-110
+88            android:enabled="true" />
+88-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:83:13-35
+89
+90        <meta-data
+90-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:85:9-87:41
+91            android:name="autoStartService.org.firstinspires.ftc.robotcore.internal.files.MediaTransferProtocolMonitorService"
+91-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:86:13-127
+92            android:value="BOTH|1000" /> <!-- Service that provides build services for OnBotJava -->
+92-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:87:13-38
+93        <service
+93-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:90:9-92:38
+94            android:name="org.firstinspires.ftc.robotcore.internal.opmode.OnBotJavaService"
+94-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:91:13-92
+95            android:enabled="true" />
+95-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:92:13-35
+96
+97        <meta-data
+97-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:94:9-96:39
+98            android:name="autoStartService.org.firstinspires.ftc.robotcore.internal.opmode.OnBotJavaService"
+98-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:95:13-109
+99            android:value="RC|2000" />
+99-->[:RobotCore-release:] C:\Users\FTC\.gradle\caches\transforms-2\files-2.1\2b449446ae5e93c88c3ba9fb42601617\RobotCore-release\AndroidManifest.xml:96:13-36
+100    </application>
+101
+102</manifest>
